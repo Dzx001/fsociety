@@ -86,11 +86,15 @@ A Penetration Testing Framework , you will have evry script that a hacker needs
 + Update instantly When There are New Update
  
 # Installation
-git clone https://github.com/Manisso/fsociety.git
-cd fsociety && python fsociety.py
-0 : INSTALL & UPDATE
-99: Exit
--> 0
-press 0 
-Congratulation Fsociety is Installed !
+[✓] git clone https://github.com/Manisso/fsociety.git
+
+[✓] cd fsociety && python fsociety.py
+
+[◉] 0 : INSTALL & UPDATE
+
+[◉] -> 0
+
+[✓] press 0 
+
+[✓] ongratulation Fsociety is Installed !
 
