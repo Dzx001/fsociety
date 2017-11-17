@@ -12,7 +12,7 @@ A Penetration Testing Framework , you will have evry script that a hacker needs
 + Web Hacking 
 + Private Web Hacking
 + Post Exploitation
-+ Install Me
++ INSTALL & UPDATE
 
 #Information Gathering : 
 + Nmap 
