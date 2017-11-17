@@ -85,7 +85,7 @@ A Penetration Testing Framework , you will have evry script that a hacker needs
 + Install Directly On System (Only For Linux & Mac System )
 + Update instantly When There are New Update
  
-# Installation
+# Installation [Linux](https://fr.wikipedia.org/wiki/Linux)
 [✓] git clone https://github.com/Manisso/fsociety.git
 
 [✓] cd fsociety && python fsociety.py
@@ -97,4 +97,18 @@ A Penetration Testing Framework , you will have evry script that a hacker needs
 [✓] press 0 
 
 [✓] ongratulation Fsociety is Installed !
+
+# Installation [Windows](https://fr.wikipedia.org/wiki/Microsoft_Windows)
+
+[✔] Download [Python](https://www.python.org/downloads/windows/).
+
+[✓] Download [fsociety](https://github.com/Manisso/fsociety/archive/master.zip)
+
+[✓] Extract [fsociety](https://github.com/Manisso/fsociety/archive/master.zip) into Desktop
+
+[◉]Open CMD and type the following commands:
+
+[✓] $cd Desktop/fsociety-master/
+
+[✓] $python fsociety.py
 
