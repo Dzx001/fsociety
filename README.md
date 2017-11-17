@@ -98,26 +98,26 @@ cd fsociety && python fsociety.py
   * Copyright El Moujahidin Team  __/ |                        V 2.0     
                                  |___/                                           
 
-     #     [+]            Coded By Manisso               [+] 
-     #     [+]         https://fb.me/dzmanisso           [+] 
-     #     [+]       Greetz To IcoDz & Canejo Dz         [+] 
+          [+]            Coded By Manisso               [+] 
+          [+]         https://fb.me/dzmanisso           [+] 
+          [+]       Greetz To IcoDz & Canejo Dz         [+] 
         
-  #  Select From The Menu:
+    Select From The Menu:
 
-#    1 : Information Gathering
-#    2 : Password Attacks
-#    3 : Wireless Testing
-#    4 : Exploitation Tools
-#    5 : Sniffing & Spoofing
-#    6 : Web Hacking 
-#    7 : Private Web Hacking
-#    8 : Post Exploitation
-#    0 : INSTALL & UPDATE
-#    99: Exit
+ 1 : Information Gathering
+2 : Password Attacks
+3 : Wireless Testing
+4 : Exploitation Tools
+5 : Sniffing & Spoofing
+6 : Web Hacking 
+7 : Private Web Hacking
+8 : Post Exploitation
+0 : INSTALL & UPDATE
+99: Exit
 
     
-# -> 0
+ -> 0
 
-# press 0 
-# Congratulation Fsociety is Installed
+ press 0 
+ Congratulation Fsociety is Installed !
 
