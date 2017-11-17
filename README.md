@@ -3,7 +3,7 @@
 
 # fsociety Hacking Tools Pack – A Penetration Testing Framework
 A Penetration Testing Framework , you will have evry script that a hacker needs
-#Menu
+# Menu
 + Information Gathering
 + Password Attacks
 + Wireless Testing
@@ -14,7 +14,7 @@ A Penetration Testing Framework , you will have evry script that a hacker needs
 + Post Exploitation
 + INSTALL & UPDATE
 
-#Information Gathering : 
+# Information Gathering : 
 + Nmap 
 + Setoolkit
 + Port Scanning
@@ -76,13 +76,48 @@ A Penetration Testing Framework , you will have evry script that a hacker needs
 + Bypass Cloudflare
 
 
-#Post Exploitation
+# Post Exploitation
 + Shell Checker
 + POET
 + Phishing Framework
 
-#Install Me
+# Install Me
 + Install Directly On System (Only For Linux & Mac System )
++ Update instantly When There are New Update
  
-#Installation
+# Installation
 git clone https://github.com/Manisso/fsociety.git
+cd fsociety && python fsociety.py
+
+  ______              _      _           _______                   
+ |  ____|            (_)    | |         |__   __|                 
+ | |__ ___  ___   ___ _  ___| |_ _   _     | | ___  __ _ _ __ ___  
+ |  __/ __|/ _ \ / __| |/ _ \ __| | | |    | |/ _ \/ _` | '_ ` _ \ 
+ | |  \__ \ (_) | (__| |  __/ |_| |_| |    | |  __/ (_| | | | | | |
+ |_|  |___/\___/ \___|_|\___|\__|\__, |    |_|\___|\__,_|_| |_| |_|
+  * Copyright El Moujahidin Team  __/ |                        V 2.0     
+                                 |___/                                           
+
+     #     [+]            Coded By Manisso               [+] 
+     #     [+]         https://fb.me/dzmanisso           [+] 
+     #     [+]       Greetz To IcoDz & Canejo Dz         [+] 
+        
+  #  Select From The Menu:
+
+#    1 : Information Gathering
+#    2 : Password Attacks
+#    3 : Wireless Testing
+#    4 : Exploitation Tools
+#    5 : Sniffing & Spoofing
+#    6 : Web Hacking 
+#    7 : Private Web Hacking
+#    8 : Post Exploitation
+#    0 : INSTALL & UPDATE
+#    99: Exit
+
+    
+# -> 0
+
+# press 0 
+# Congratulation Fsociety is Installed
+
